@@ -1,0 +1,13 @@
+{
+    "main_url": "https://dev.profteam.su/",
+    "login_url": "https://dev.profteam.su/login",
+    "vacancy_url":"https://dev.profteam.su/account/vacancies",
+    "login": "testerStudent",
+    "login1":"testerEmployer",
+    "login2":"testerInstitution",
+    "password": "Password1",
+    "vacancy": {
+        "title": "Тестовая вакансия",
+        "description": "Описание тестовой вакансии"
+    }
+}
