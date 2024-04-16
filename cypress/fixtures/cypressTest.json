@@ -5,6 +5,7 @@
     "login": "testerStudent",
     "login1":"testerEmployer",
     "login2":"testerInstitution",
+    "login3":"testerAdmin",
     "password": "Password1",
     "vacancy": {
         "title": "Тестовая вакансия",
